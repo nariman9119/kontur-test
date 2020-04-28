@@ -236,7 +236,7 @@ Threshold - пороговое значение для классификаци�
 
 * **solution**
     *   **data**
-        * все данные которые можно скачать по [cсылке](https://drive.google.com/drive/folders/1XqYfeVVhyeBvVY8KtQr9hof2gBds0ANX?usp=sharing)
+        * все данные которые можно скачать по [cсылке](https://drive.google.com/drive/folders/1XqYfeVVhyeBvVY8KtQr9hof2gBds0ANX?usp=sharing). Создайте папку **data** и переместите все данные туда. 
     * **images**
     * *EDA.ipynb* - визуальный анализ данных
     * *Train.ipynb* - pipeline для тренировки модели
