@@ -6,6 +6,9 @@
  + [Модель и результаты](#Modeling)
  + [How to Run](#howtorun)
 
+Папку solution со всем решением можно найти пройдя по [ссылке](https://drive.google.com/open?id=1VPIDxYbTteleR3oqbHW2MmhLoTWtu721)
+
+Отдельно скачать result.tsv можно по [ссылке](https://drive.google.com/open?id=1VhxPlfaokipCAw4LVMi3ta0HsTjb3q2z)
 
 ## <a name="EDA"></a> __Разведочный анализ данных__
 - Train data - 3983203
